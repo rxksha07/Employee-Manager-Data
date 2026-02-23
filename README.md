@@ -1,6 +1,6 @@
 🚀 Project Completed: Employee Manager Web Application
 
-I’m excited to share my Day-25 project — Employee Manager, built using HTML, CSS, and JavaScript.
+I’m excited to share my project — Employee Manager Data, built using HTML, CSS, and JavaScript.
 This project demonstrates practical implementation of:
 
 ✔ Arrays (push, pop, shift)
@@ -23,7 +23,7 @@ Load employee data from an external API
 This project strengthened my understanding of DOM manipulation, modern JavaScript concepts, and asynchronous programming.
 
 #JavaScript #WebDevelopment #Frontend #Learning #Projects
-...........................................................................................................................................
+........................................................................................................................................................................
 🚀 Features
 
 Add employees with name, salary, and department
