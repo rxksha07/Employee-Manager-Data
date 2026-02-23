@@ -23,7 +23,7 @@ Load employee data from an external API
 This project strengthened my understanding of DOM manipulation, modern JavaScript concepts, and asynchronous programming.
 
 #JavaScript #WebDevelopment #Frontend #Learning #Projects
-..........................................................................................................................................................................................................................
+.................................................................................................................................................................................................................................
 🚀 Features
 
 Add employees with name, salary, and department
