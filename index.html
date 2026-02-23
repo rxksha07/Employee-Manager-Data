@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>EMPLOYEE MANAGER</h1>
+
+    <!-- Center Image with Effect -->
+    <div class="image-box">
+        <img src="10611931.png" alt="Employee">
+    </div>
+
+    <form id="empForm">
+
+        <label>Name :</label>
+        <input type="text" id="name" placeholder="Example: Vidhya" required>
+
+        <label>Salary :</label>
+        <input type="number" id="salary" placeholder="Example: 50000" required>
+
+        <label>Department :</label>
+        <input type="text" id="department" placeholder="Example: IT" required>
+
+        <button type="submit">Add Employee</button>
+    </form>
+
+    <div class="buttons">
+        <button onclick="showEmployees()">Show Employee</button>
+        <button onclick="deleteLast()">Delete Last (pop)</button>
+        <button onclick="deleteFirst()">Delete First (shift)</button>
+        <button onclick="showAverage()">Show Average Salary</button>
+        <button onclick="loadAPI()">Load API Employee</button>
+    </div>
+
+    <div id="output"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
